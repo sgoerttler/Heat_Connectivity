@@ -1,0 +1,7 @@
+# IDE (PyCharm / IntelliJ)
+.idea/
+
+# Python cache
+__pycache__/
+**/__pycache__/
+*.py[cod]
